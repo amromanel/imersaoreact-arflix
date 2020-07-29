@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "titulo": "INTERNACIONAL",
+      "link": "",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+
+      "videos": [
+        {
+          "titulo": "Alok & Dynoro - On & On (Official Teaser Clip))",
+          "url": "https://www.youtube.com/watch?v=qCrWEwqR2ak"
+        },
+        {
+          "titulo": "Show Acústico de Avril Lavigne",
+          "url": "https://www.youtube.com/watch?v=dw59o7a9Kf4"
+        },
+        {
+          "titulo": "Maluma - ADMV (Versión Urbana - Official Video)",
+          "url": "https://www.youtube.com/watch?v=2t9cxeo3fAI"
+        },
+        {
+          "titulo": "David Guetta - Play Hard ft. Ne-Yo, Akon (Official Video)",
+          "url": "https://www.youtube.com/watch?v=5dbEhBKGOtY"
+        },
+        {
+          "titulo": "Akon - Lonely (Official Video)",
+          "url": "https://www.youtube.com/watch?v=6EEW-9NDM5k"
+        },
+        {
+          "titulo": "Akon - Right Now (Na Na Na) (Official Video)",
+          "url": "https://www.youtube.com/watch?v=vIaH35-MLsk"
+        },
+        {
+          "titulo": "Maroon 5 - Memories (Official Video)",
+          "url": "https://www.youtube.com/watch?v=SlPhMPnQ58k"
+        },
+        {
+          "titulo": "Christina Perri - A Thousand Years [Official Music Video]",
+          "url": "https://www.youtube.com/watch?v=rtOvBOTyX00"
+        }        
+      ]
+    },
+    {
+      "titulo": "POP - ROCK - MPB",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "PRA VOCÊ GUARDEI O AMOR - Ana Cañas e Nando Reis (DVD 'Coração Inevitável' - 2013)",
+          "url": "https://www.youtube.com/watch?v=JphFIxsZh6w"
+        },
+        {
+          "titulo": "Anavitória - Trevo",
+          "url": "https://www.youtube.com/watch?v=kq1adq4KL90"
+        },
+        {
+          "titulo": "TIAGO IORC - Coisa Linda",
+          "url": "https://www.youtube.com/watch?v=OBaEbTuDQEc"
+        },
+        {
+          "titulo": "Sandy - Me Espera ft. Tiago Iorc",
+          "url": "https://www.youtube.com/watch?v=zBUurckfIiE"
+        }, 
+        {
+          "titulo": "ANAVITÓRIA, Vitor Kley - Pupila",
+          "url": "https://www.youtube.com/watch?v=9Sk7RQtSl5g"
+        }
+      ]
+    },
+    {
+      "titulo": "REGGAE",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Armandinho - Outra Noite Que Se Vai",
+          "url": "https://www.youtube.com/watch?v=V1oor7kC8lU"
+        },
+        {
+          "titulo": "Natiruts - Quero Ser Feliz Também (Natiruts Acústico Ao Vivo no Rio de Janeiro)",
+          "url": "https://www.youtube.com/watch?v=i1Nm-MJ313w"
+        },
+        {
+          "titulo": "Papas da Lingua - Eu Sei",
+          "url": "https://www.youtube.com/watch?v=WVy83AkegiY"
+        },
+        {
+          "titulo": "Chimarruts - Versos Simples",
+          "url": "https://www.youtube.com/watch?v=kc2MyOkFbuc"
+        }
+      ]
+    },
+    {
+      "titulo": "PAGODE",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Churrasquinho do Menos é Mais - Fatalmente/ Separação/ Temporal",
+          "url": "https://www.youtube.com/watch?v=I5Rl73wFmWs"
+        },
+        {
+          "titulo": "Deixa Acontecer / Coração Radiante / Compasso Do Amor",
+          "url": "https://www.youtube.com/watch?v=c4XeTP11EI8"
+        },
+        {
+          "titulo": "Péricles - Supera (Pagode do Pericão) [VIDEO OFICIAL]",
+          "url": "https://www.youtube.com/watch?v=6p3ETYgcEN8"
+        },
+        {
+          "titulo": "Dilsinho - Refém (DVD Terra do Nunca Ao Vivo)",
+          "url": "https://www.youtube.com/watch?v=BvalYFjApoY"
+        }
+      ]
+    },
+    {
+      "titulo": "SERTANEJO",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Gusttavo Lima - Saudade Sua (Clipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=HrpBSGaM_tc"
+        },
+        {
+          "titulo": "Luiza e Maurílio - S de Saudade part Zé Neto e Cristiano - EP Ensaio Acústico",
+          "url": "https://www.youtube.com/watch?v=sjH-s6lozFk"
+        },
+        {
+          "titulo": "Marília Mendonça - INTENÇÃO feat. Gaab (Todos Os Cantos)",
+          "url": "https://www.youtube.com/watch?v=1qKz_QohN7g&list=TLPQMjkwNzIwMjBXIrlaFilxdA&index=2"
+        },
+        {
+          "titulo": "Humberto e Ronaldo - Tchau Brigado Feat. Matheus e Kauan",
+          "url": "https://www.youtube.com/watch?v=4gOMXoqCxrM"
+        },
+        {
+          "titulo": "Jorge & Mateus - Na Praia edição Hotel",
+          "url": "https://www.youtube.com/watch?v=267BZ2oWbYo"
+        }
+      ]
+    },
+
+
+
+    {
+      "titulo": "RELIGIOSAS",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Acalma minha tempestade | Revival Night - Som do Monte",
+          "url": "https://www.youtube.com/watch?v=LT5Et9jZX2U"
+        },
+        {
+          "titulo": "Acaso não sabeis - Colo de Deus",
+          "url": "https://www.youtube.com/watch?v=tCpISZvKeWY"
+        },
+        {
+          "titulo": "Yeshua",
+          "url": "https://www.youtube.com/watch?v=fTLC4SJNvgE"
+        },
+        {
+          "titulo": "Shekinah",
+          "url": "https://www.youtube.com/watch?v=H914hX_0szs"
+        },
+        {
+          "titulo": "Não desisto",
+          "url": "https://www.youtube.com/watch?v=ha1jx7cG2Is"
+        }
+      ]
+    }
+  ]
+}
